@@ -1,1 +1,1 @@
-Site url: http://www.imre97.github.io/adminpage
+Site url: https://imre97.github.io/adminpage/#/
